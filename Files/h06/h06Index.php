@@ -30,6 +30,7 @@
 
 
         <li><a href="mysqlenphp.php"><button>Opdracht: 1</button></a></li>
+        <li><a href="Tabel.php"><button>Opdracht: 2 Tabel</button></a></li>
 
 
     </ul>
