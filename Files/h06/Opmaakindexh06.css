@@ -1,0 +1,81 @@
+header{
+text-align: center;
+}
+
+
+
+img#php_logo{
+    width: 100px;
+}
+
+nav {
+    background-color: rebeccapurple;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a{
+    color: darkgrey;
+    margin-left: 5px;
+}
+
+nav h2{
+    margin: 0px;
+}
+div.wrapper{
+    margin: auto;
+    width: 700px;
+    background-color: mediumpurple;
+    padding: 20px;
+    height: 910px;
+}
+
+body{
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+
+
+
+ul{
+    background-color: rebeccapurple;
+    text-align: center;
+    list-style-type: none;
+    padding-bottom: 430px;
+
+
+}
+
+ul a{
+    color: darkgrey;
+    text-decoration: none;
+
+}
+
+ul button{
+    width: 200px;
+    height: 50px;
+    margin-bottom: 40px;
+    background-color: darkgrey;
+}
+
+img#codefoto_links{
+     width: 565px;
+     float: left;
+     padding: 0px;
+     margin: 0px;
+     height: 951px;
+ }
+
+img#codefoto_rechts{
+    width: 565px;
+    float: right;
+    padding: 0px;
+    margin: 0px;
+    height: 951px;
+}
+
+
+
+

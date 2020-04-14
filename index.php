@@ -33,6 +33,8 @@
     <li><a href="Files/h02.php"><button id="hoofdstuk1_button">Hoofdstuk: 2</button></a></li>
     <li><a href="Files/h03/h03Index.php"><button id="hoofdstuk1_button">Hoofdstuk: 3</button></a></li>
     <li><a href="Files/h04/h04Index.php"><button id="hoofdstuk1_button">Hoofdstuk: 4</button></a></li>
+    <li><a href="Files/h05/h05Index.php"><button id="hoofdstuk1_button">Hoofdstuk: 5</button></a></li>
+    <li><a href="Files/h06/h06Index.php"><button id="hoofdstuk1_button">Hoofdstuk: 6</button></a></li>
 </ul>
 </div>
 </body>
